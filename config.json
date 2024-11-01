@@ -1,0 +1,18 @@
+{
+  "general":{
+    "defaultCategory":0,
+    "useHelpPanel":true,
+    "useCreditPanel":true,
+    "useBackgroundMusic":false
+  },
+  "strings":{
+    "APP_TITLE":"3D Block Builder",
+    "APP_INFO":"Creative 3D Sculpture Game",
+    "NEW_GAME":"NEW GAME",
+    "HELP":"HELP",
+    "HELP_TEXT":"Help text",
+    "SETTING":"SETTING",
+    "CREDIT":"CREDIT",
+    "CREDIT_TEXT":"Music and sound effects from opengameart.org"
+  }
+}
